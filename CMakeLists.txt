@@ -52,6 +52,7 @@ add_message_files(
   FILES
   HardwareStatus.msg
 )
+# Examples removed
 
 ## Generate services in the 'srv' folder
 #add_service_files(
